@@ -1,3 +1,14 @@
+# Jmeter application files
+apache-jmeter*.tgz
+apache-jmeter*
+apache-jmeter*/
+
+# Jmeter result files
+*.jtl
+*.log
+*.txt
+*.xml
+
 # Compiled class file
 *.class
 
